@@ -1,8 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+//En este JFRAME en el boton BtnSumar esta el código para sumar los números
+//desde el paquete de la "Lógica" --> main se hará el llamado a a este Jframe
+
+
+
 package IGU;
 
 /**
